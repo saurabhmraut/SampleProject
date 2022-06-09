@@ -5,3 +5,6 @@ It's git practice assignment
 
 
     modified in js-assignment
+
+    js-assignment
+    js -assignment
